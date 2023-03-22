@@ -1,5 +1,5 @@
 # Sass & Scss
-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
+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
 ## Learning objectives
 - What Sass means
 - How to write Sass & Scss file
